@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90577299684",
+    "project_id": "flutik-82051",
+    "storage_bucket": "flutik-82051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90577299684:android:7f6d0d749ba667dd59a4f1",
+        "android_client_info": {
+          "package_name": "com.example.flu_tik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90577299684-n3ilap3o1oc42mujs0h6310jadqqos10.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiaWufb-u4uw6pOcQrJDhJSpWUvj89EGs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90577299684-n3ilap3o1oc42mujs0h6310jadqqos10.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
