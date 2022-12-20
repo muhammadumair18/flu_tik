@@ -35,7 +35,7 @@ class AddVideoScreen extends StatelessWidget {
                           color: Colors.white,
                         ),
                         SizedBox(
-                          width: 8.sp,
+                          width: 9.sp,
                         ),
                         Text(
                           'Open Gallery',

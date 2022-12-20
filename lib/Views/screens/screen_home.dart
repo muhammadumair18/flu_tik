@@ -62,7 +62,7 @@ class HomeScreen extends StatelessWidget {
                               icon: Icon(
                                 Icons.favorite,
                                 color: Colors.red,
-                                size: 25.sp,
+                                size: 24.sp,
                               )),
                           Text(
                             data.likes.length.toString(),
